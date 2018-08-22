@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "id": "@shopgate/ext-hide-shipping-info",
+  "components": [
+    {
+      "id": "Shipping",
+      "type": "portals",
+      "path": "frontend/Shipping",
+      "target": "product.shipping"
+    }
+  ],
+  "configuration": {
+  }
+}
